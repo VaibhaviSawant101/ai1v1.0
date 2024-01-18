@@ -1,4 +1,6 @@
 
+
+a = "Changes Made"
 def ConstBoard(board):
     print("Current State Of Board : \n\n")
     for i in range(0, 9):
